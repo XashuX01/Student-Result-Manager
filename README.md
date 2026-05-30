@@ -78,18 +78,6 @@ python studentResultManager.py
 * Dictionary
 * User Input
 * Functions of Python Basics
-
----
-
-## 🎯 Future Improvements
-
-* Add Grade System
-* Save Data in File
-* Delete Student Record
-* Update Marks
-* GUI Version using Tkinter
-* Database Integration
-
 ---
 
 ## 👨‍💻 Author
